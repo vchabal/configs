@@ -18,16 +18,18 @@
     },
     "java.jdt.ls.java.home": "D:\\jdk21.0.2_13",
     "java.configuration.runtimes": [
-    
         {
-            "name": "JavaSE-11",
-            "path": "D:\\jdk11.0.18_10",
-            "javadoc" : "https://docs.oracle.com/en/java/javase/11/docs/api",
+            "name": "JavaSE-17",
+            "path": "D:\\jdk17.0.12_7",
+            "javadoc" : "https://docs.oracle.com/en/java/javase/17/docs/api/",
             "default":  true
         }, {
             "name": "JavaSE-21",
             "path": "D:\\jdk21.0.2_13",
             "javadoc" : "https://docs.oracle.com/en/java/javase/21/docs/api",
         }
-    ]
+    ],
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.experimental.showMoves": true
 }
